@@ -13,7 +13,6 @@ hello-go            latest              4b94e74bedab        2 minutes ago       
 
 `make`
 
-![http://imgur.com/zkgjH0k.gif](http://imgur.com/zkgjH0k.gif)
 ![Caddyshack gopher][gopher]
 
 [gopher]: https://github.com/adampats/hello-go/raw/master/gopher.gif "Caddyshack gopher"
