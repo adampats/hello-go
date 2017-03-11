@@ -1,6 +1,6 @@
 ### hello-go
 
-Because huge docker images are lame.
+Large file sizes should apply to GIFs, not docker images.
 
 ```
 -rwxr-xr-x  1 adam  staff   2.2M Mar 11 13:44 hello-go
